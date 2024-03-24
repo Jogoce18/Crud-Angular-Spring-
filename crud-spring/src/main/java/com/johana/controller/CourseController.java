@@ -55,4 +55,16 @@ public class CourseController {
     public CourseDTO create(@RequestBody @Valid @NotNull CourseDTO course) {
         return courseService.create(course);
     }
+
+    @PutMapping("/{id}")
+    public CourseDTO update(@PathVariable @NotNull @Positive Long id,
+            @RequestBody @Valid @NotNull CourseDTO course) {
+        return courseService.update(id, course);
+    }
+
+    @DeleteMapping("/{id}")
+    @ResponseStatus(code = HttpStatus.NO_CONTENT)
+    public void delete(@PathVariable @NotNull @Positive Long id) {
+        courseService.delete(id);
+    }
 }
