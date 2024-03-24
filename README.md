@@ -1,7 +1,7 @@
 ![image](https://github.com/Jogoce18/Crud-Angular-Spring-/assets/80592317/38601cdc-8a9f-4209-8c11-692d26139373)
 # Projeto em Andamento
 
-![Angular](https://img.shields.io/badge/Angular-15.0.0-red)
+![Angular](https://img.shields.io/badge/Angular-17.0.0-red)
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-3.1.5-green)
 
