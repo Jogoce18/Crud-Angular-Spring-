@@ -32,3 +32,15 @@ Este projeto consiste em uma aplicação fullstack utilizando Angular e Spring B
 Para iniciar a aplicação frontend, execute o seguinte comando no terminal dentro da pasta `crud-angular`:
 
 
+### Backend
+
+Para iniciar a aplicação backend, siga estas etapas:
+
+1. Navegue até a pasta `crud-spring`.
+2. Abra sua IDE.
+3. Clique no botão "run" ou execute a ação de execução do projeto.
+
+Certifique-se de que ambos, o frontend e o backend, estejam em execução para que o sistema funcione corretamente.
+
+Este projeto está em desenvolvimento contínuo. Fique à vontade para contribuir e melhorá-lo!
+
