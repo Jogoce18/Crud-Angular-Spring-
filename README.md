@@ -3,7 +3,7 @@
 
 ![Angular](https://img.shields.io/badge/Angular-15.0.0-red)
 ![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Framework](https://img.shields.io/badge/Spring%20Framework-3.0.0-green)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-3.1.5-green)
 
 ## Sobre o Projeto
 
